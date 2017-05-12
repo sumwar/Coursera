@@ -1,6 +1,7 @@
 apply plugin: "java-library"
 apply plugin: "checkstyle"
 apply plugin: "findbugs"
+apply plugin: "eclipse"
 
 repositories {
 	jcenter()
